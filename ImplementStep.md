@@ -1,3 +1,13 @@
-Please implement only the first uncompleted task listed in the file `.aiwork\implementationplan.md`  .  
-Review the file to identify which task is marked as open/uncompleted, implement only that specific task, and mark it as completed when done. 
-Do not implement any additional tasks beyond the first open one. After implementation, run appropriate tests to verify your changes work correctly.
+Please implement only the first uncompleted task from the TDD workflow implementation plan in `.aiwork\implementationplan.md`.
+
+Follow this specific process:
+1. Read the implementation plan file to identify the first task that is NOT marked as completed (lacks a checked checkbox [x])
+2. Review any related documentation files in the `.aiwork` folder that provide additional context for that specific task
+3. Use the codebase-retrieval tool to gather detailed information about existing code that relates to the task before making any changes
+4. Create a detailed implementation plan for just that one task, including which files need to be created or modified
+5. Implement only that specific task according to the requirements in the plan
+6. Mark the task as completed by updating the checkbox from `[ ]` to `[x]` in the implementation plan
+7. Run appropriate tests or verification steps to confirm the implementation works correctly
+8. Fix any linter errors before considering the task complete
+
+Do NOT implement multiple tasks or move ahead to subsequent tasks. Focus exclusively on completing the first uncompleted task thoroughly and correctly according to the established TDD workflow requirements for Business Central development.
