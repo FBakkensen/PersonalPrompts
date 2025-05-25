@@ -12,3 +12,5 @@ Follow this specific process:
 9. Review if any of the changes require updates to the implementation plan in `.aiwork\implementationplan.md` and update accordingly
 
 Do NOT implement multiple tasks or move ahead to subsequent tasks. Focus exclusively on completing the first uncompleted task thoroughly.
+
+**Final review**: Before returning to the user, review if the changes in this task lead to any necessary updates of subsequent tasks in the implementation plan in `.aiwork\implementationplan.md` and update the plan accordingly.
