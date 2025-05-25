@@ -9,5 +9,6 @@ Follow this specific process:
 6. Mark the task as completed by updating the checkbox from `[ ]` to `[x]` in the implementation plan
 7. Run appropriate tests or verification steps to confirm the implementation works correctly
 8. Fix any linter errors before considering the task complete
+9. Review if any of the changes require updates to the implementation plan in `.aiwork\implementationplan.md` and update accordingly
 
-Do NOT implement multiple tasks or move ahead to subsequent tasks. Focus exclusively on completing the first uncompleted task thoroughly and correctly according to the established TDD workflow requirements for Business Central development.
+Do NOT implement multiple tasks or move ahead to subsequent tasks. Focus exclusively on completing the first uncompleted task thoroughly.
