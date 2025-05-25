@@ -1,4 +1,4 @@
-Create a detailed implementation plan in Markdown format and save it to a file in the `@.aiwork/` directory. The plan should outline all the steps neede.
+Based on your research, create a detailed implementation plan in Markdown format and save it to a file in the `@.aiwork/` directory. The plan should outline all the steps neede. 
 
 For each task in the plan:
 1. Assign a sequential number (1, 2, 3, etc.)
